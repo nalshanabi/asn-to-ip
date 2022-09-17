@@ -39,7 +39,7 @@ def asnToIP(asn):
 
 def main():
 
-    # result info
+    # result name == date now
     fn = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
     
     # mass asn to ip
